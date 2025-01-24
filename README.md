@@ -1,11 +1,9 @@
 Sprint5_VideoGames_imputation project, by Deborah Thomas
 Comparison of different gaming platforms throughout the years.
-EDA, and  hypothesis testing.
+EDA, SDA, data imputation, and hypothesis testing.
 
-https://github.com/Script-Whiz/Sprint5_VideoGames_imputation/blob/main/notebook/games_ver_16.ipynb
+on GitHub:
+[Sprint5 Video Games SDA and imputation project](]https://github.com/Script-Whiz/Sprint5_VideoGames_imputation/blob/main/notebook/games_ver_18_final.ipynb)
 
-My graphs were not showing up at GitHub, nor at the TT file submission site.
-Here is an nbviewer page, which rendered out my graphs nicely.
-https://nbviewer.org/github/Script-Whiz/Games/blob/main/notebook/games_ver_16.ipynb
 
 .
